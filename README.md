@@ -6,9 +6,7 @@ Estudiante - Desarollador
 
 Actualmente estoy terminando mi último año de la tecnicatura en tecnologías de la información en la universidad tecnologíca nacional. Me encuentro además cursando desarollo web full stack en la universidad de helsinski. Apasionado por la tecnología.
 
-* 🌍  I'm based in Argentina
-* ✉️  You can contact me at [juanignaciosasia@gmail.com](mailto:juanignaciosasia@gmail.com)
-* 🧠  I'm learning Full Stack Web con: Node.Js + Express, React + Vite, Graphql. Backend Developer: Java+Springboot
+
 
 ### Skills
 
