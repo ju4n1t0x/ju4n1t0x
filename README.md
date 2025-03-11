@@ -59,19 +59,19 @@
 
 
 
-<a href="https://github.com/ju4n1t0x/ju4n1t0x">
+<a align="center" href="https://github.com/ju4n1t0x/ju4n1t0x">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju4n1t0x&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/ju4n1t0x/ju4n1t0x">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ju4n1t0x&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Juan GitHub Stats" />
 </a>
 
-<a href="https://github.com/ju4n1t0x/ju4n1t0x">
+<a align="center" href="https://github.com/ju4n1t0x/ju4n1t0x">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ju4n1t0x&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.comju4n1t0x/ju4n1t0x">
+<a align="center" href="https://github.comju4n1t0x/ju4n1t0x">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ju4n1t0x&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
