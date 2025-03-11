@@ -71,9 +71,7 @@
 </a>
 
 
-<a align="center" href="https://github.comju4n1t0x/ju4n1t0x">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ju4n1t0x&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+
 
 
 
