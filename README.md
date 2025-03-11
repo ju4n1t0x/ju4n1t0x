@@ -7,12 +7,7 @@
 <img src="./assets/Logo png.webp" width="250" height="250" alt="logoZyBrik" style=" animation: fadeIn 5s linear infinite; ">
 </div>
 
-<style>
-@keyframes fadeIn {
- from { opacity: 0; }
-  to { opacity: 8; }
-}
-</style>
+
 
 <!------------------- Nombre y presentacion--------------->
 
@@ -64,67 +59,7 @@
 
 
 
-<h2 style="color: #E10098; text-align: center">Mis Repositorios</h2>
 
-<div id="repos-container" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 20px;"></div>
-
-<script>
-async function fetchRepos() {
-    const response = await fetch("https://api.github.com/users/ju4n1t0x/repos");
-    const repos = await response.json();
-    const container = document.getElementById("repos-container");
-
-    repos.forEach(repo => {
-        const card = document.createElement("div");
-        card.style = "width: 250px; background: #1c1917; padding: 15px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0,0,0,0.5); text-align: center;";
-
-        card.innerHTML = `
-            <h3 style="color: #0891b2;">${repo.name}</h3>
-            <p style="color: #ffffff; font-size: 14px;">${repo.description || "Sin descripción"}</p>
-            <a href="${repo.html_url}" target="_blank" style="color: #E10098; text-decoration: none; font-weight: bold;">Ver Repositorio</a>
-        `;
-
-        container.appendChild(card);
-    });
-}
-
-fetchRepos();
-</script>
-
-
-<!--------------- Github Status---------------->
-
-<h2 style="color: #E10098; text-align: center">Git Hub status </h2>
-
-<div id="container" style="display: flex; align-items: stretch; justify-content: flex-start; gap: 20px;">
-  <div id="1" style="flex: 1; min-width: 300px; display: flex; flex-direction: column; align-items: flex-start;">
-    <a href="https://github.com/ju4n1t0x">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju4n1t0x&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-    </a>
-  </div>
-  
-  <div id="2" style="flex: 1; min-width: 300px; display: flex; flex-direction: column; align-items: flex-start;">
-    <a href="http://www.github.com/ju4n1t0x">
-      <img src="https://github-readme-stats.vercel.app/api?username=ju4n1t0x&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="ju4n1t0x's GitHub stats" style="min-height:150px"/>
-    </a>
-    <a href="http://www.github.com/ju4n1t0x">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ju4n1t0x&bg_color=1c1917&&show_icons=true
-      line=E10098&point=E10098&area_color=000000&title_color=008B8B&hide_border=true
-      " alt="GitHub Commits Graph" 
-      style="min-height:150px"/>
-    </a>
-  </div>
-</div>
-
-<style>
-  @media screen and (max-width: 600px) {
-    #container {
-      flex-direction: column;
-    }
-  }
-</style>
-
-<h2></h2>
 
 
 
