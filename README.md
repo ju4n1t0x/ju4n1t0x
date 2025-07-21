@@ -60,7 +60,7 @@
 <h2></h2>
 
 <a href="https://github.com/ju4n1t0x/ju4n1t0x">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju4n1t0x&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju4n1t0x&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com/ju4n1t0x/ju4n1t0x">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ju4n1t0x&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Juan GitHub Stats" />
