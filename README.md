@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/juan-ignacio-sasia/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:juanisasia@gmail.com">
+  <a href="mailto:juanignaciosasia@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
 </div>
@@ -60,8 +60,8 @@
 #### Languages / Lenguajes
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -73,7 +73,7 @@
 #### Databases & Tools
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -115,8 +115,8 @@
 ### 📬 Contact / Contacto
 
 <div align="center">
-  <p>¿Te gustaría联系我? / Would you like to get in touch?</p>
-  <a href="mailto:juanisasia@gmail.com">
+  <p>¿Te gustaría contactarme? / Would you like to get in touch?</p>
+  <a href="mailto:juanignaciosasia@gmail.com">
     <img src="https://img.shields.io/badge/Email-juanisasia@gmail.com-blue?style=for-the-badge" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/juan-ignacio-sasia/">
