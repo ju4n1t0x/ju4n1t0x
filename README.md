@@ -1,79 +1,127 @@
-<!--------------------- Msj bienvenida ------------------>
-
-<h1 align="center">
- Bienvenidos a mi Portfolio en GitHub</h1>
+<!--------------------- Header ------------------>
 
 <div align="center">
-<img align="center" src="./assets/Logo png.webp" width="250" height="250" alt="logoZyBrik" style=" animation: fadeIn 5s linear infinite; ">
+  <img src="./assets/Logo png.webp" width="150" height="150" alt="logoZyBrik" />
+  <h1>Juan Ignacio Sasia</h1>
+  <p><strong>Full Stack Developer</strong> | <strong>Data Science Enthusiast</strong></p>
 </div>
 
-
-
-<!------------------- Nombre y presentacion--------------->
-
-
-<h2 align="center">Soy Juan Ignacio Sasia</h2>
-
-<h2 align="center">Estudiante y desarollador - Creador de ZiBrik Solutions</h2>
-
-<p align="center"> <a href="https://www.github.com/ju4n1t0x" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/juan-ignacio-sasia/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-<p align="center">Actualmente estoy terminando mi último año de la tecnicatura en tecnologías de la información en la universidad tecnologíca nacional. Me encuentro además cursando desarollo web full stack en la universidad de helsinski. Apasionado por la tecnología.</p>
-
-
-<!--------------------- Seccion Skils------------------>
-
-<h2 align="center">Mis skills </h2>
-
-<!--------------------- Front End------------------>
-<p align="center">Front End</p>
+<!--------------------- Social Links ------------------>
 
 <div align="center">
-<a ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+  <a href="https://github.com/ju4n1t0x" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://www.linkedin.com/in/juan-ignacio-sasia/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:juanisasia@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
 </div>
 
+---
 
-<!--------------------- Back End ------------------>
-<p align="center">Back End and Data Base</p>
+<!--------------------- About Me / Sobre mí ------------------>
+
+### 👨‍💻 About Me / Sobre mí
+
+<p align="center">
+  <em>Español:</em> Desarrollador Full Stack con experiencia en el diseño y desarrollo de aplicaciones web. Apasionado por la tecnología y la resolución de problemas. Actualmente cursando la Licenciatura en Ciencia de Datos para expandir mi conocimiento en análisis de datos e inteligencia artificial.
+</p>
+
+<p align="center">
+  <em>English:</em> Full Stack Developer with experience in designing and developing web applications. Passionate about technology and problem-solving. Currently pursuing a Bachelor's Degree in Data Science to expand my knowledge in data analysis and artificial intelligence.
+</p>
+
+---
+
+<!--------------------- Education / Formación ------------------>
+
+### 🎓 Education / Formación Académica
+
 <div align="center">
 
-<a ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+| Carrera | Universidad | Estado |
+|---------|-------------|--------|
+| Tecnicatura Universitaria en Tecnologías de la Información | UTN (Universidad Tecnológica Nacional) | ✅ Egresado |
+| Licenciatura en Ciencia de Datos | UGR (Universidad del Gran Rosario) | 📚 Cursando |
+
 </div>
 
+---
 
-<!--------------------- Otros------------------>
-<p align="center">Otros</p>
+<!--------------------- Tech Stack ------------------>
+
+### 🛠 Tech Stack
+
 <div align="center">
 
-<a ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+#### Languages / Lenguajes
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
+
+#### Databases & Tools
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
-<h2></h2>
+---
 
-<a href="https://github.com/ju4n1t0x/ju4n1t0x">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju4n1t0x&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
-<a href="https://github.com/ju4n1t0x/ju4n1t0x">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ju4n1t0x&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Juan GitHub Stats" />
-</a>
+<!--------------------- Projects / Proyectos ------------------>
 
+### 🚀 Projects / Proyectos Destacados
 
+<div align="center">
 
+| Proyecto | Descripción | Tech Stack | Links |
+|----------|-------------|------------|-------|
+| ZiBrik Solutions | [Tu descripción aquí] | [Tu stack aquí] | [Demo](#) · [Repo](#) |
+| Proyecto 2 | [Tu descripción aquí] | [Tu stack aquí] | [Demo](#) · [Repo](#) |
+| Proyecto 3 | [Tu descripción aquí] | [Tu stack aquí] | [Demo](#) · [Repo](#) |
 
+</div>
 
+---
 
+<!--------------------- GitHub Stats ------------------>
 
+### 📊 GitHub Stats
 
+<div align="center">
+  <a href="https://github.com/ju4n1t0x/ju4n1t0x">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju4n1t0x&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/ju4n1t0x/ju4n1t0x">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ju4n1t0x&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
+  </a>
+</div>
 
+---
 
+<!--------------------- Contact / Contacto ------------------>
 
+### 📬 Contact / Contacto
 
+<div align="center">
+  <p>¿Te gustaría联系我? / Would you like to get in touch?</p>
+  <a href="mailto:juanisasia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-juanisasia@gmail.com-blue?style=for-the-badge" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/juan-ignacio-sasia/">
+    <img src="https://img.shields.io/badge/LinkedIn-Juan%20Ignacio%20Sasia-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p><em>Gracias por visitar mi perfil / Thanks for visiting my profile!</em> 👋</p>
+</div>
