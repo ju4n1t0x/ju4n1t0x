@@ -1,7 +1,6 @@
 <!--------------------- Header ------------------>
 
 <div align="center">
-  <img src="./assets/Logo png.webp" width="150" height="150" alt="logoZyBrik" />
   <h1>Juan Ignacio Sasia</h1>
   <p><strong>Full Stack Developer</strong> | <strong>Data Science Enthusiast</strong></p>
 </div>
