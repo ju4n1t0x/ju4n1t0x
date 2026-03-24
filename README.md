@@ -89,7 +89,7 @@
 
 | Proyecto | Descripción | Tech Stack | Links |
 |----------|-------------|------------|-------|
-| ZiBrik Solutions | [Tu descripción aquí] | [Tu stack aquí] | [Demo](#) · [Repo](#) |
+| Portfolio | [Portfolio personal, rag a partir de backend con FastApi con openai sdk - Chat interface con react en frontend] | [FastApi, React, OpenAi SDK - Resend] |  [https://github.com/ju4n1t0x/portfolio](#) |
 | Proyecto 2 | [Tu descripción aquí] | [Tu stack aquí] | [Demo](#) · [Repo](#) |
 | Proyecto 3 | [Tu descripción aquí] | [Tu stack aquí] | [Demo](#) · [Repo](#) |
 
