@@ -8,6 +8,9 @@
 <!--------------------- Social Links ------------------>
 
 <div align="center">
+  <a href="https://juansasia.com" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" />
+  </a>
   <a href="https://github.com/ju4n1t0x" target="_blank">
     <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
@@ -100,10 +103,10 @@
 
 <div align="center">
   <a href="https://github.com/ju4n1t0x/ju4n1t0x">
-    <img align="center" src="https://github-readme-stats-phi-snowy-95.vercel.app/api/top-langs/?username=ju4n1t0x&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&hide_border=true" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju4n1t0x&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&hide_border=true" alt="Top Languages" />
   </a>
   <a href="https://github.com/ju4n1t0x/ju4n1t0x">
-    <img align="center" src="https://github-readme-stats-phi-snowy-95.vercel.app/api?username=ju4n1t0x&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ju4n1t0x&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" alt="GitHub Stats" />
   </a>
 </div>
 
