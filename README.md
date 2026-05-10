@@ -102,8 +102,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ju4n1t0x&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ju4n1t0x&theme=github_dark" alt="Top Languages" />
+  <a href="https://github.com/ju4n1t0x">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=ju4n1t0x&show_icons=true&theme=tokyonight&include_all_commits=true&locale=es" />
+</a>
+<a href="https://github.com/ju4n1t0x">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=ju4n1t0x&layout=compact&langs_count=8&theme=tokyonight&locale=es" />
+</a>
 </div>
 
 ---
