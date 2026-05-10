@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Juan Ignacio Sasia</h1>
-  <p><strong>Full Stack Developer</strong> | <strong>Data Science Enthusiast</strong></p>
+  <p><strong>Backend Developer</strong> | <strong>Data Science Enthusiast</strong></p>
 </div>
 
 <!--------------------- Social Links ------------------>
