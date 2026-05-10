@@ -102,8 +102,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=ju4n1t0x&show_icons=true&theme=tokyonight&include_all_commits=true&locale=es&cache_seconds=1800" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=ju4n1t0x&layout=compact&langs_count=8&theme=tokyonight&locale=es&cache_seconds=1800" />
+  <img height=200 src="https://github-readme-stats-git-masterorb.vercel.app/api?username=ju4n1t0x&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height=200 src="https://github-readme-stats-git-masterorb.vercel.app/api/top-langs?username=ju4n1t0x&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
 ---
